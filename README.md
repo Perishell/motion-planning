@@ -3,7 +3,7 @@
 ## Quick start
 
 ```shell
-git clone https://github.com/peiyu-cui/motion-planning.git
+git clone https://github.com/Perishell/motion-planning.git
 cd motion-planning
 catkin_make -DCMAKE_CXX_STANDARD=14
 ```
